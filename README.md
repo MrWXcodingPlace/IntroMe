@@ -1,7 +1,7 @@
 # IntroMe
 
 ## My Info
-Name: Goh Wen Xuan
+Name: Goh Wen Xuan<br>
 Matrix No: 277153
 
 ## Profile Picture
